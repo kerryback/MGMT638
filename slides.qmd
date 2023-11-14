@@ -28,3 +28,7 @@
 [7d. Current Data](07d-current_data.slides.html){target="_blank"} [(pdf)](pdfs/07d-current_data.slides.pdf){target="_blank"}
 
 [7e. Random Forest Apply II](07e-random_forest_apply_ver2.slides.html){target="_blank"} [(pdf)](pdfs/07e-random_forest_apply_ver2.slides.pdf){target="_blank"}
+
+[8a. Analyze Recommendations](08a-analyze_recommendations.slides.html){target="_blank"} [(pdf)](pdfs/08a-analyze_recommendations.slides.pdf){target="_blank"}
+
+[8b. Neural Networks](08b-neural_networks.slides.html){target="_blank"} [(pdf)](pdfs/08b-neural_networks.slides.pdf){target="_blank"}
