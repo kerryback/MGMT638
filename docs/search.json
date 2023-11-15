@@ -53,6 +53,13 @@
     "href": "assignments.html",
     "title": "",
     "section": "",
-    "text": "1. Moving Averages and Pairs\n2. Backtesting Loop"
+    "text": "1. Moving Averages and Pairs\n2. Backtesting Loop\n3. Analyzing Recommendations"
+  },
+  {
+    "objectID": "assignment3.html",
+    "href": "assignment3.html",
+    "title": "",
+    "section": "",
+    "text": "Instructions\n\n\n\nSubmit a pdf of a Word document to Canvas.\n\n\nOpen this Excel file. It contains data on the worst 50 stocks and the best 50 stocks based on the random forest model. Describe the differences between the two groups. Consider each characteristic and industry sectors."
   }
 ]

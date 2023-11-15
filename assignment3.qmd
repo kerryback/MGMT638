@@ -1,0 +1,11 @@
+## Assignment 3<br>MGMT 638: Data-Driven Investments: Equity<br>Rice University
+
+
+::: {.callout-note appearance="minimal"}
+
+## Instructions 
+
+Submit a pdf of a Word document to Canvas.
+:::
+
+Open [this Excel file](https://www.dropbox.com/scl/fi/e6it3wm5fp3wvph64b34s/bottom50-top50.xlsx?rlkey=vuyyfvh0nja1zb2oh24utxbl6&dl=1).  It contains data on the worst 50 stocks and the best 50 stocks based on the random forest model.  Describe the differences between the two groups.  Consider each characteristic and industry sectors.
