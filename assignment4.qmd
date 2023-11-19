@@ -1,0 +1,28 @@
+## Assignment 4<br>MGMT 638: Data-Driven Investments: Equity<br>Rice University
+
+
+::: {.callout-note appearance="minimal"}
+
+## Instructions 
+
+Submit a Jupyter notebook to Canvas.  This assignment is due Wednesday, Nov. 29.
+:::
+
+Split the Boston house price data into train and test sets with test_size=0.
+Do the following for Random ForestRegressor and MLPRegressor.
+
+(a) Use GridSearchCV on the training data to find the best hyperparameter.
+(b) Compute the $R^2$ on the test data for the best hyperparameter.
+
+For RandomForestRegressor,  use
+
+```.p
+param_grid = {"max_depth": range(2, 22, 2)}
+```
+
+For MLPRegressor, use
+
+```.p
+param_grid = {"hidden_layer_sizes": [[100, [100, 100], [100, 100, 100]]]}
+```
+

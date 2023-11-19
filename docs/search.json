@@ -18,7 +18,7 @@
     "href": "slides.html",
     "title": "",
     "section": "",
-    "text": "1. Overview and Moving Averages (pdf)\n2. Pairs Trading (pdf)\n3. Momentum and SQL Database (pdf)\n4. Small Cap Value and Momentum (pdf)\n5a. Fundamentals (pdf)\n5b. Random Forest (pdf)\n6a. Random Forest Backtest (pdf)\n6b. Random Forest Train (pdf)\n6c. Random Forest Apply (pdf)\n7a. Data (pdf)\n7b. Random Forest Backtest II (pdf)\n7c. Random Forest Train II (pdf)\n7d. Current Data (pdf)\n7e. Random Forest Apply II (pdf)\n8a. Analyze Recommendations (pdf)\n8b. Neural Networks (pdf)"
+    "text": "1. Overview and Moving Averages (pdf)\n2. Pairs Trading (pdf)\n3. Momentum and SQL Database (pdf)\n4. Small Cap Value and Momentum (pdf)\n5a. Fundamentals (pdf)\n5b. Random Forest (pdf)\n6a. Random Forest Backtest (pdf)\n6b. Random Forest Train (pdf)\n6c. Random Forest Apply (pdf)\n7a. Data (pdf)\n7b. Random Forest Backtest II (pdf)\n7c. Random Forest Train II (pdf)\n7d. Current Data (pdf)\n7e. Random Forest Apply II (pdf)\n8a. Analyze Recommendations (pdf)\n8b. Neural Networks (pdf)\n9. More Machine Learning (pdf)"
   },
   {
     "objectID": "slides.html#slide-decks-data-driven-investments-equity-rice-university",
@@ -53,7 +53,7 @@
     "href": "assignments.html",
     "title": "",
     "section": "",
-    "text": "1. Moving Averages and Pairs\n2. Backtesting Loop\n3. Analyzing Recommendations"
+    "text": "1. Moving Averages and Pairs\n2. Backtesting Loop\n3. Analyzing Recommendations\n4. Train, Validate, Test"
   },
   {
     "objectID": "assignment3.html",
@@ -61,5 +61,12 @@
     "title": "",
     "section": "",
     "text": "Instructions\n\n\n\nSubmit a pdf of a Word document to Canvas.\n\n\nOpen this Excel file. It contains data on the worst 50 stocks and the best 50 stocks based on the random forest model. Describe the differences between the two groups. Consider each characteristic and industry sectors."
+  },
+  {
+    "objectID": "assignment4.html",
+    "href": "assignment4.html",
+    "title": "",
+    "section": "",
+    "text": "Instructions\n\n\n\nSubmit a Jupyter notebook to Canvas. This assignment is due Wednesday, Nov. 29.\n\n\nSplit the Boston house price data into train and test sets with test_size=0. Do the following for Random ForestRegressor and MLPRegressor.\n\nUse GridSearchCV on the training data to find the best hyperparameter.\nCompute the \\(R^2\\) on the test data for the best hyperparameter.\n\nFor RandomForestRegressor, use\nparam_grid = {\"max_depth\": range(2, 22, 2)}\nFor MLPRegressor, use\nparam_grid = {\"hidden_layer_sizes\": [[100, [100, 100], [100, 100, 100]]]}"
   }
 ]

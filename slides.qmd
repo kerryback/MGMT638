@@ -32,3 +32,5 @@
 [8a. Analyze Recommendations](08a-analyze_recommendations.slides.html){target="_blank"} [(pdf)](pdfs/08a-analyze_recommendations.slides.pdf){target="_blank"}
 
 [8b. Neural Networks](08b-neural_networks.slides.html){target="_blank"} [(pdf)](pdfs/08b-neural_networks.slides.pdf){target="_blank"}
+
+[9. More Machine Learning](09_more_ml.slides.html){target="_blank"} [(pdf)](pdfs/09_more_ml.slides.pdf){target="_blank"}
