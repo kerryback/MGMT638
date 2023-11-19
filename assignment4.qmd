@@ -5,7 +5,7 @@
 
 ## Instructions 
 
-Submit a Jupyter notebook to Canvas.  This assignment is due Wednesday, Nov. 29.
+Submit a Jupyter notebook to Canvas.  This assignment is due by midnight, Tuesday, Nov. 28.
 :::
 
 Split the Boston house price data into train and test sets with test_size=0.
