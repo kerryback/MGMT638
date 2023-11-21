@@ -8,8 +8,8 @@
 Submit a Jupyter notebook to Canvas.  This assignment is due by midnight, Tuesday, Nov. 28.
 :::
 
-Split the Boston house price data into train and test sets with test_size=0.
-Do the following for Random ForestRegressor and MLPRegressor.
+Split the Boston house price data into train and test sets with test_size=0.2.
+Do the following for (i) Random ForestRegressor, (ii) MLPRegressor, and (iii) Lasso.
 
 (a) Use GridSearchCV on the training data to find the best hyperparameter.
 (b) Compute the $R^2$ on the test data for the best hyperparameter.
@@ -23,6 +23,12 @@ param_grid = {"max_depth": range(2, 22, 2)}
 For MLPRegressor, use
 
 ```.p
-param_grid = {"hidden_layer_sizes": [[100, [100, 100], [100, 100, 100]]]}
+param_grid = {"hidden_layer_sizes": [[100], [100, 100], [100, 100, 100]]}
+```
+
+For Lasso, use
+
+```.p
+param_grid = {"alpha": np.arange(0.1, 2.1, 0.1)}
 ```
 
