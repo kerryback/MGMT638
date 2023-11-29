@@ -37,4 +37,4 @@
 
 [10. Evaluating Past Returns](10-attribution.slides.html){target="_blank"} [(pdf)](pdfs/10-attribution.slides.pdf){target="_blank"}
 
-[11. Backtesting](11-backtesting.slides.html){target="_blank"} [(pdf)](pdfs/11-backtesting.slides.pdf){target="_blank"}
+[11. Backtesting Sector Strategy](11-backtest_sector.slides.html){target="_blank"} [(pdf)](pdfs/11-backtest_sector.slides.pdf){target="_blank"}
