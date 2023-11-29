@@ -1,0 +1,17 @@
+## Assignment 5<br>MGMT 638: Data-Driven Investments: Equity<br>Rice University
+
+
+::: {.callout-note appearance="minimal"}
+
+## Instructions 
+
+Submit a pdf to Canvas.  This assignment is due by midnight on Wednesday, December 6.
+:::
+
+Backtest at least two random forest models for your sector, one for each definition of the target.  Other models could be backtested using different max_depth or n_estimators.  Your evaluation should contain the following:
+
+1.  Is the strategy successful in identifying good stocks and bad stocks?
+2.  Does it produce alpha relative to the market?
+3.  Does it have significant factor betas and does it produce alpha relative to the factor model?
+4.  What features does it seem to be using and how - that is, does it produce higher forecasts when the feature is larger or when the feature is smaller?
+

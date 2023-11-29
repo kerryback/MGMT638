@@ -8,3 +8,5 @@
 [3. Analyzing Recommendations](assignment3.html){target="_blank"}
 
 [4. Train, Validate, Test](assignment4.html){target="_blank"}
+
+[5. Backtest a Sector Strategy](assignment5.qmd.html){target="_blank"}
